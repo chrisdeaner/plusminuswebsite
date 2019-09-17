@@ -8,7 +8,7 @@ deploy:
     secure: kRjdkHcXk2iOwH7Uv1JQPgHPo9um9t7QCEprBkV7mHGtCX1zq03uREHZ/UlfrlOEouKozgIi7CoLrZtTlASmnqMFnlT+x8GVelzzQN59UcTAK28yOY+jqJw6fKVqn55QvYOwxA/hDWHaa+j35qFuZ6cD0v69UilHcWz6oapvqmA1/5gjmJvyvg8lllfI3L0Wp3OnbP9BkIf1KyenxMru2u/tzodFc3lL3Ix+knP1NoW/EgOVMkCtHnpFr0kpAdx/ZIGobFOKwYuvG1W5dLbwek5jPgMdhgMBk0zKWkVYRCqEpYegw+/Pydt2EcBElzz477QlKpIPM10qe/dK47mynYnXrlmWQTEwYhVvPxmzFNmz00iT5LTmlR93WzB9Kf8OyNSO/dAwpaPzRxmNwma56rikFbTgK05+AWgbEOmA4nfeaHJthkHbalUWvwSKw+CN5BSbwP8V9Sz8ZQkEakXZae28RVMKnlIrJzsEQ9v7Xc/AZRN4rypAJkyUrmIMvISPRXETnUwa6vIJvIQf29Z4GUXmBoECqClJw14rI/j6fV7dYIHtKqd/beUoeYJAe8rrwhaP7WppI993Ps3919o78y89qGD/2OZn9GnTkloIs1qpIehUShjMtD87fCYkRsqG/W4afkXK6d/kyVUmA2rOCGtqJHVdqXWpEnZTrX+NMFk=
   bucket: plusmin.us
   skip_cleanup: true
-  region: eu-west-1
+  region: us-west-2
   local-dir: plusmin.us
   acl: public_read_write
   on:
