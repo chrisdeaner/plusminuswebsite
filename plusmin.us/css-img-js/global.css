@@ -1,0 +1,279 @@
+body, td {
+	font-family: arial, verdana, sans-serif;
+	font-size: 11px;
+	color:#887B73;
+	margin-top: 0px;
+	vertical-align: top;
+}
+
+body {
+	background-color: #1B1614;
+}
+
+
+h2 {
+	font-size: 		14px;
+	font-weight:	bold;
+	font-family: 	helvetica, sans-serif;
+}
+
+form {
+	margin: 	0px; 
+	padding: 	0px;
+}
+
+.contact td {
+	padding-bottom: 15px;
+}
+
+.store td {
+	vertical-align: middle;
+}
+
+.storePayPal td {
+	vertical-align:middle
+}
+
+.mailinglist td {
+	padding-bottom: 10px;
+}
+
+.mailinglist_left {
+	width: 80px;
+}
+
+.clear {
+	clear: 			both;
+	font-size: 		0;
+	line-height: 	0;
+	height: 		0;
+	margin: 		0;
+	padding: 		0;
+}
+
+.container {
+	margin-left:  	auto;
+	margin-right: 	auto;
+	width:  		754px;
+	height: 		400px;
+}
+
+.content {
+	margin-top:			3px;
+	background-color: 	#221C19;
+}
+
+.contentPadding {
+	padding:	10px;
+}
+
+.leftNav {
+	float: 			left;
+	width: 			150px;
+	padding-right: 	20px;
+}
+
+.leftNavEntry {
+	padding:		5px 0 5px 0;
+	border-bottom: 	1px solid #2C2622;
+}
+
+.leftNavEntry a:link, .leftNavEntry a:visited, .leftNavEntry a:active  {
+	color: #887B73;
+	text-decoration: none;
+}
+
+a:link, 				a:visited, 			a:active,
+.highlight, 			.highlight a:link, 	.highlight a:visited, 	.highlight a:active,
+.leftNavEntry a:hover,	.emphasis,			.itemHeader
+{
+	color: #E0D1C7;
+	text-decoration: none;
+}
+
+.pastShows a:link, 	.pastShows a:visited, 	.pastShows a:active {
+	color:#887B73;
+	text-decoration: none;
+}
+
+.pastShows a:hover {
+	text-decoration: underline;
+}
+
+
+h2, .error, a:hover {
+	color: #DE0000;
+}
+
+.mainContent {
+	width: 			550px;
+	padding-right:	10px;
+	float: 			left;
+	min-height: 500px;  /*for Firefox: */
+	_height: 502px; 	/*for IE*/
+}
+
+
+.header {
+	padding: 			10px;
+	background-color: 	#221C19;
+	color:				#6A5E57;
+}
+
+.logoHead {
+	padding: 5px 5px 5px 0;
+}
+
+.plusMinusLogo {
+	padding-top:	10px;
+	font-size: 		14px;
+	font-weight:	bold;
+	font-family: 	helvetica, sans-serif;
+}
+
+.itemHeader, 	.emphasis 
+{
+	font-weight: bold;
+}
+
+.itemHeaderShowsTopPadding {
+	padding-top: 15px;
+}
+
+.itemHeaderShows 
+{
+	font-size: 		12px;
+	font-weight: 	bold;
+	color:			#887B73;
+}
+
+/*******************************************************************************
+HEADER FOOTER STUFF
+*******************************************************************************/
+
+.headerLinksContainer {
+	padding: 	10px 0 10px 0px;
+}
+
+.headerLinks {
+	float:left;
+	font-size: 		12px;
+	font-weight:	bold;
+	font-family: 	helvetica, sans-serif;
+	padding-right:	33px;
+}
+
+.footerLinks {
+	float:			left;
+	padding-right:	10px;
+}
+
+.headerLinks a:link, .headerLinks a:visited, .headerLinks a:active,
+.footerLinks a:link, .footerLinks a:visited, .footerLinks a:active  {
+	color: 				#6A5E57;
+	text-decoration: 	none;
+}
+
+.footer {
+	margin-top: 		3px;
+	padding:	 		10px;
+	background-color: 	#221C19;
+	color:				#5B4E47;
+}
+
+.footer a:link, 	.footer a:visited, 
+.footer a:hover, 	.footer a:active  	{
+	color: 				#5B4E47;
+	text-decoration: 	none;
+}
+
+
+.headerLinks a:hover, .footerLinks a:hover,
+.headerNavHighlight a:link, 	.headerNavHighlight a:visited, 
+.headerNavHighlight a:hover, 	.headerNavHighlight a:active  	{ 
+	color: #B2A6A0;
+	text-decoration: none;
+}
+
+/*******************************************************************************
+MAILING LIST THINGIES
+*******************************************************************************/
+.mailList {
+	float:right;
+	color: #DE0000;
+	background: url("/images/mailingList.gif") no-repeat 0px 4px;
+	padding-left: 15px;
+}
+
+.mailList a:link,	.mailList a:visited, .mailList a:active	{
+	color: #DE0000;
+	text-decoration: none;
+}
+
+.mailList a:hover { 
+	color: #BF0000;
+	text-decoration: none;
+}
+
+.discImages {
+	padding-bottom: 15px;
+}
+
+.genericItem {
+	padding-bottom: 15px;
+	line-height:	14px;	
+}
+
+.month {
+	padding-top: 10px;
+}
+
+.copyright {
+	float:right;
+	font-size: 10px;
+}
+
+.noborder {
+	border: 0px;
+}
+
+.new {
+	font-weight: bold;
+	color: yellow;
+}
+
+/* added for pictures */
+.pictureRow { 
+	height: 200px;
+}
+
+.thePictures {
+	margin-top: 10px;
+}
+
+.pictureSetTitle { 
+	color: #ffffff;
+}
+
+.picture {
+	background-color: #1D1815;
+	float: left;
+	margin-right: 2px;
+}
+
+.picture a:link, .picture a:visited, .picture a:active, .picture a:hover
+{
+	text-decoration: none;
+}
+
+.mediumFormatPicture {
+	padding: 22px 22px 22px 22px;
+}
+
+.landscapePicture {
+	padding: 22px 7px 22px 7px;
+}
+
+.portratePicture {
+	padding: 7px 22px 7px 22px;
+}
