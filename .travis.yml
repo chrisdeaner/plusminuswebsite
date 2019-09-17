@@ -11,4 +11,4 @@ deploy:
   acl: ''
   on:
     repo: chrisdeaner/plusminuswebsite
-    branch: travis
+    branch: master
