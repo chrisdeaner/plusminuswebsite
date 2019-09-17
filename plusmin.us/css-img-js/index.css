@@ -1,0 +1,78 @@
+.hpImage {
+	width: 258px;
+	height:258px;
+	float: left;
+}
+
+.hpTopRight {
+	background-color: 	#ffffff;
+	float: 				left;
+	padding:			25px;
+	width: 				446px;
+}
+
+.hpTopRightContent {
+	background-color:	#f3b915;
+	color:				#000000;
+	padding: 			10px;
+	height: 			188px;
+}
+
+.hpTopRightContent a:link, .hpTopRightContent a:visited, .hpTopRightContent a:active, .hpTopRightContent a:hover {
+	color: 				#000000;
+	text-decoration: 	none;
+}
+
+.hpTopRightContent a:hover { 
+	text-decoration: underline;
+}
+
+.hpTopRightHeader {
+	padding-top: 	102px;
+	color: 			#ffffff;
+	font-size: 		16px;
+	font-family: 	helvetica, sans-serif;
+}
+
+.subHeadLeft {
+	float: left;
+}
+
+.seeAll {
+	color: #453D38;
+	float: right;
+	font-size: 		11px;
+	font-weight:	bold;
+	font-family: 	helvetica, sans-serif;
+	padding-top:	15px;
+}
+
+.seeAll a:link, .seeAll a:visited, .seeAll a:active {
+	color: 				#453D38;
+	text-decoration: 	none;
+}
+
+.seeAll a:hover { 
+	color: #887B73;
+	text-decoration: none;
+}
+
+.leftContent {
+	width: 		490px;
+	padding:	10px;
+	float:		left;
+	height: 60vh;
+}
+
+.rightContent {
+	width: 	224px;
+	padding:10px;
+	float:	left;
+}
+
+.newsItem {
+	font-size: 		11px;
+	padding-top:	10px;
+	padding-bottom:	10px;
+	border-bottom: 	1px solid #2C2622;
+}
