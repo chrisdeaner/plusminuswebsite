@@ -1,0 +1,19 @@
+{
+  "name": "plusminuswebsite",
+  "version": "1.0.0",
+  "description": "The +/- {plus/minus} Website. In all it's glory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdeaner/plusminuswebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdeaner/plusminuswebsite/issues"
+  },
+  "homepage": "https://github.com/chrisdeaner/plusminuswebsite#readme"
+}
